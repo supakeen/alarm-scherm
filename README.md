@@ -12,7 +12,7 @@ send information to the `bell-tft` there.
 
 ### Hardware
 
-- Lily TTGo T-Display ESP32
+- LilyGo TTGo T-Display ESP32
 
 ### Software
 
