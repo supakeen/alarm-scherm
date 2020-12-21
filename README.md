@@ -1,6 +1,6 @@
-# bell-tft
+# BellTFT
 
-The `bell-tft` firmware is meant for the Lily TTGo T-Display ESP32 module.
+The `BellTFT` firmware is meant for the LilyGo TTGo T-Display ESP32 module.
 
 ## Wormouth
 
