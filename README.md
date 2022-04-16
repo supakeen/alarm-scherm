@@ -1,12 +1,6 @@
-# BellTFT
+# alarm-scherm
 
-The `BellTFT` firmware is meant for the LilyGo TTGo T-Display ESP32 module.
-
-## Wormouth
-
-This repository and firmware is part of the [Wormouth](https://supakeen.com/project/wormouth)
-project. You can find where the `BellTFT` sources its data and what you need to set up to
-send information to the `BellTFT` there.
+The `alarm-scherm` firmware is meant for the LilyGo TTGo T-Display ESP32 module.
 
 ## Requirements
 
@@ -20,7 +14,7 @@ send information to the `BellTFT` there.
 
 ## Installation
 
-`BellTFT` follows the general Wormouth Installation for firmware. This means that you should
+`alarm-scherm` follows my general theme for firmware. This means that you should
 have PlatformIO installed and ready to use.
 
 1. Copy the `env/EXAMPLE` file to an `env/test.ini` file. Fill in your WiFi SSID and password.
